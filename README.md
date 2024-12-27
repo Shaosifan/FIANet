@@ -1,5 +1,5 @@
 # FIANet
-This repository is the offical implementation for ["Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation."](https://arxiv.org/abs/2409.13637)
+This repository is the offical implementation for "Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation."[[IEEE TGRS](https://ieeexplore.ieee.org/document/10816052)] [[arXiv](https://arxiv.org/abs/2409.13637)]
 
 ## Setting Up
 ### Preliminaries

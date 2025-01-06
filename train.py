@@ -91,7 +91,7 @@ def evaluate(model, data_loader, bert_model, epoch):
     with torch.no_grad():
         for data in metric_logger.log_every(data_loader, 100, header):
             total_its += 1
-            image, target, sentences, attentions, target_masks, position_masks = data
+            image, target, sentences, attentions, target_masks, position_masks, _ = data
             image = image.cuda(non_blocking=True)
             target = target.cuda(non_blocking=True)
             sentences = sentences.cuda(non_blocking=True)

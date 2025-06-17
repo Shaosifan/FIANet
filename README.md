@@ -64,9 +64,10 @@ If you find this code useful for your research, please cite our paper:
 ``````
 @article{lei2024exploring,
   title={Exploring fine-grained image-text alignment for referring remote sensing image segmentation},
-  author={Lei, Sen and Xiao, Xinyu and Li, Heng-Chao and Shi, Zhenwei and Zhu, Qing},
-  journal={arXiv preprint arXiv:2409.13637},
-  year={2024}
+  author={Lei, Sen and Xiao, Xinyu and Zhang, Tianlin and Li, Heng-Chao and Shi, Zhenwei and Zhu, Qing},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
 }
 ``````
 

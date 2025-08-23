@@ -214,7 +214,7 @@ def main(args):
                                        get_transform(args=args),
                                        args=args)
 
-    dataset_test, _ = get_dataset("test",
+    dataset_test, _ = get_dataset("val",
                                   get_transform(args=args),
                                   args=args)
 

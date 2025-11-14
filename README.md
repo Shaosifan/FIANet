@@ -48,6 +48,7 @@ For training on RRSIS-D dataset:
 ```shell
 python train.py --dataset rrsisd --model_id FIANet --epochs 40 --lr 3e-5 --num_tmem 3  
 ```
+The pretrained models can be downloaded from [[BaiduNetDisk](https://pan.baidu.com/s/1WgvKFn9nXiny1pzcvVJjwQ?pwd=65g4)](extract code: 65g4).
 
 ## Testing
 For RefSegRS dataset:
